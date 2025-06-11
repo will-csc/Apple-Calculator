@@ -6,7 +6,7 @@ A sleek Apple-style calculator built with Python and `Tkinter`. It supports basi
 
 ## 📸 Screenshot
 
-![image](https://github.com/user-attachments/assets/64226f00-ac53-4419-9e8a-53272daa808e)
+![image](https://github.com/user-attachments/assets/03b3bec1-3ad2-4a9d-9484-f8ef392dc7b1)
 
 ---
 
