@@ -43,6 +43,15 @@ python main.py
 
 ---
 
+## Make it executable
+
+### 1. Run the following command inside the folder
+```bash
+pyinstaller --noconfirm --onefile --windowed --icon=assets/apple.ico --add-data "assets;assets" main.py
+```
+
+---
+
 ## 📁 Project Structure
 
 ```Mathematical
